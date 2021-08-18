@@ -1,0 +1,16 @@
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\bin\Debug\net5.0\Timer.exe
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\bin\Debug\net5.0\Timer.deps.json
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\bin\Debug\net5.0\Timer.runtimeconfig.json
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\bin\Debug\net5.0\Timer.runtimeconfig.dev.json
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\bin\Debug\net5.0\Timer.dll
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\bin\Debug\net5.0\ref\Timer.dll
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\bin\Debug\net5.0\Timer.pdb
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\obj\Debug\net5.0\Timer.csprojAssemblyReference.cache
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\obj\Debug\net5.0\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\obj\Debug\net5.0\Timer.AssemblyInfoInputs.cache
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\obj\Debug\net5.0\Timer.AssemblyInfo.cs
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\obj\Debug\net5.0\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\obj\Debug\net5.0\Timer.dll
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\obj\Debug\net5.0\ref\Timer.dll
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\obj\Debug\net5.0\Timer.pdb
+C:\Users\Tris\Desktop\Programacao\Projects\Ferramentas\Timer\obj\Debug\net5.0\Timer.genruntimeconfig.cache
